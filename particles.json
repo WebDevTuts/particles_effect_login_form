@@ -31,6 +31,12 @@
         "enable": true,
         "speed": 30
       }
+    },
+    "line_linked": {
+      "enable": true,
+      "distance": 100,
+      "color": "#FFF",
+      "width": 1
     }
   }
 }
