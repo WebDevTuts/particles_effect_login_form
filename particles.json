@@ -37,6 +37,12 @@
       "distance": 100,
       "color": "#FFF",
       "width": 1
+    },
+    "move": {
+      "enable": true,
+      "speed": 2,
+      "direction": "none",
+      "straight": false
     }
   }
 }
