@@ -44,5 +44,19 @@
       "direction": "none",
       "straight": false
     }
+  },
+  "interactivity": {
+    "events": {
+      "onhover": {
+        "enable": true,
+        "mode": "repulse"
+      }
+    },
+    "modes": {
+      "repulse": {
+        "distance": 50,
+        "duration": 0.4
+      }
+    }
   }
 }
