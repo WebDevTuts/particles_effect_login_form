@@ -15,6 +15,14 @@
       "image": {
         "src": "http://www.iconsdb.com/icons/preview/white/contacts-xxl.png"
       }
+    },
+    "opacity": {
+      "value": 0.5,
+      "random": true,
+      "anim": {
+        "enable": false,
+        "speed": 1
+      }
     }
   }
 }
