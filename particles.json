@@ -5,6 +5,9 @@
     },
     "color": {
       "value": "#FFF"
+    },
+    "shape": {
+      "type": "square"
     }
   }
 }
